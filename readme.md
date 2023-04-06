@@ -44,6 +44,8 @@ It should look like this
 }
 ```
 
+and be right next to the project-file.
+
 `Username` and `Password` should be self-explanatory.
 
 For all other values you should use the official untis-web-login and with a little patience, some queries and the trusty Debugger Console you'll get the rest of the values.
